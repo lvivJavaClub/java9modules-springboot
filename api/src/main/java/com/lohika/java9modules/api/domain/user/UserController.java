@@ -1,8 +1,7 @@
 package com.lohika.java9modules.api.domain.user;
 
-import com.lohika.java9modules.service.user.UserService;
+import com.lohika.java9modules.user.service.UserService;
 
-import org.springframework.data.crossstore.ChangeSetPersister;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

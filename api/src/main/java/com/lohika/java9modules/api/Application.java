@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 @ComponentScan(value = {
     "com.lohika.java9modules.api",
-    "com.lohika.java9modules.service"
+    "com.lohika.java9modules.user.service"
 })
 public class Application {
 

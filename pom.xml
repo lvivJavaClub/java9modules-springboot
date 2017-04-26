@@ -28,12 +28,7 @@
     <dependencies>
       <dependency>
         <groupId>com.lohika.java9modules</groupId>
-        <artifactId>java9modules-api</artifactId>
-        <version>${project.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>com.lohika.java9modules</groupId>
-        <artifactId>java9modules-service</artifactId>
+        <artifactId>java9modules-user-service</artifactId>
         <version>${project.version}</version>
       </dependency>
 

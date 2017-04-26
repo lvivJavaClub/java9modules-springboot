@@ -1,6 +1,6 @@
 package com.lohika.java9modules.api.domain.user;
 
-import com.lohika.java9modules.service.user.User;
+import com.lohika.java9modules.user.service.User;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
