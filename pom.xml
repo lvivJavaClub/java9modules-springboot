@@ -11,7 +11,7 @@
 
   <modules>
     <module>api</module>
-    <module>service</module>
+    <module>user-service</module>
   </modules>
 
   <properties>
