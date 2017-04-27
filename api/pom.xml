@@ -15,7 +15,7 @@
   <dependencies>
     <dependency>
       <groupId>com.lohika.java9modules</groupId>
-      <artifactId>java9modules-user-service</artifactId>
+      <artifactId>user-service</artifactId>
     </dependency>
 
     <dependency>

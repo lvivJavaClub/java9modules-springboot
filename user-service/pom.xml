@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>java9modules-user-service</artifactId>
+  <artifactId>user-service</artifactId>
 
   <dependencies>
     <dependency>
@@ -33,4 +33,14 @@
       <artifactId>lombok</artifactId>
     </dependency>
   </dependencies>
+
+  <!--<build>-->
+    <!--<plugins>-->
+      <!--<plugin>-->
+        <!--<groupId>org.apache.maven.plugin</groupId>-->
+        <!--<artifactId>maven-compiler-plugin</artifactId>-->
+        <!--<version>3.6.1</version>-->
+      <!--</plugin>-->
+    <!--</plugins>-->
+  <!--</build>-->
 </project>
