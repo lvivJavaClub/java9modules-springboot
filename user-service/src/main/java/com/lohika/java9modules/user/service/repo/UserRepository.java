@@ -1,4 +1,6 @@
-package com.lohika.java9modules.user.service;
+package com.lohika.java9modules.user.service.repo;
+
+import com.lohika.java9modules.user.service.User;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
